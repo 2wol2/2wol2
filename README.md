@@ -60,8 +60,3 @@
 
 **성공회대학교** — 소프트웨어, 정보통신 복수전공 졸업 (2025)
 
----
-
-## 📊 GitHub Stats
-
-![2wol2's GitHub stats](https://github-readme-stats.vercel.app/api?username=2wol2&show_icons=true&theme=default&hide_border=true)
